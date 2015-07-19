@@ -1,0 +1,14 @@
+{
+  "name": "@jesse/how-to-npm",
+  "version": "1.0.0",
+  "description": "a tutorial project from nodeschool",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "Jesse Evers <jesse27999@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  }
+}
